@@ -31,3 +31,13 @@ Adobe Photoshop, Illustrator, Figma
 + JS. HowProgrammingWorks. Examples for Software Engineering and Programming Lectures (Timur Shemsedinov)  
 + RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)  
 **********************  
+### **Languages:**  
++ English - Pre-Intermediate/Intermediate   
++ Ukrainian - Native  
++ Russian - Native  
++ Polish - Basic  
+**********************  
+### **My works:**  
++ [Matrix rain](https://bo-mila.github.io/matrix-rain/): Used HTML5, CSS3, Sass, JS, Canvas   
++ [EFood](https://bo-mila.github.io/EFood/): Used HTML5, CSS3, Sass, JS, Swiper.js, Gulp   
+**********************  
