@@ -26,3 +26,11 @@ VS Code, Postman
 + Loftschool [Vue.js Advanced web development](https://loftschool.com/diploma/RY1573803341/en/pdf)  
 + RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)  
 **********************  
+### **Languages:**  
++ English - Pre-Intermediate/Intermediate   
++ Ukrainian - Native  
++ Russian - Native  
+**********************  
+### **My works:**  
++ [cssBayan](https://github.com/mila-bozhevskaya/cssBayan/tree/gh-pages): Used HTML5, CSS3, Sass, JS   
+**********************  
